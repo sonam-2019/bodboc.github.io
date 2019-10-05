@@ -1,0 +1,95 @@
+.homepage
+{
+	width:800px;
+	height:auto;
+	border-style:groove;
+} 
+
+.header
+{
+	width:800px;
+	height:75px;
+	
+	background-color:rgb(255,255.255);
+	background-image:url('images/kkkk.jpg');
+	background-repeat:no-repeat;	
+}
+
+.linkpart
+{
+	width:800px;
+	height:25px;
+	margin-top:5px;
+	background-color:rgb(129,194,137);
+	
+		
+}
+
+.linkpart a
+{
+	color:rgb(245,246,251);
+	text-decoration:none;
+	
+	
+}
+.linkpart a:hover
+{
+	background-color: rgb(245,246,251);
+	color:rgb(129,194,137);
+	
+}
+.bodypart
+{
+	width:800px;
+	height:auto;
+	border-style:groove;
+	margin-top:5px;
+}
+.bodypart .imagepart
+{
+	width: 450px;
+	height:250px;
+	border-style:groove;
+	background-image: url('images/tashigroup.jpg');
+	background-repeat: no-repeat;
+	margin-top:5px;
+	display:inline-block;
+}
+.newspart
+{
+	width: 250px;
+	height:450px;
+	border-style:inset;
+	float:right;
+	margin-right:15px;
+}
+.bodypart .newspart h2
+{
+	color: green;
+	font-size: 15px;
+	margin-left:30px;
+	
+}
+.bodypart .newspart .news
+{
+	widtg:230px;
+	height:280px;
+	margin-left:15px;	
+}
+.bodypart .newspart .news h4
+{
+	color:blue;
+	
+}
+.bodypart .newspart .table tr
+{
+	border: 1px solid black:
+	
+}
+.table bodypart h3
+{
+	text-color: red;
+	
+}
+
+
